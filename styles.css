@@ -35,14 +35,14 @@ body{
 }
 #gen-button{
     padding: 15px 45px;
-    color: #eee;
+    color: #1C203A;
     border: 2px black solid;
-    background-color:#000000;
+    background-color:#C6D8D3;
     border-radius: 15px;
 
 }
 #gen-button:hover {
-    background-color: white;
+    background-color:;
     color: black;
 }
 .button{
