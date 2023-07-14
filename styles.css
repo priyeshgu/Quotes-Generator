@@ -1,0 +1,51 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    
+    
+}
+body{
+    background-color: #1C203A;
+}
+.main-area{
+    width: 60vw;
+	margin: 15vh auto 0;
+	padding: 30px 30px 100px;
+	border-radius: 10px;
+	background-color: #3EBB68;
+	position: relative;
+	overflow: hidden;
+	transition: all 1s;
+}
+.controls{
+    position: absolute;
+    height: 15%;
+	width: 100%;
+	padding: 20px;
+	bottom: 0;
+	left: 0;
+    right: 0;
+	background-color: rgba(56, 56, 56, 0.20);
+}
+
+#quote-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#gen-button{
+    padding: 15px 45px;
+    color: #eee;
+    border: 2px black solid;
+    background-color:#000000;
+    border-radius: 15px;
+
+}
+#gen-button:hover {
+    background-color: white;
+    color: black;
+}
+.button{
+    margin-top: 2vh;
+    text-align: center;
+}
