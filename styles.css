@@ -16,6 +16,9 @@ body{
 	overflow: hidden;
 	transition: all 1s;
 }
+#quote-container{
+    font-size: 2em;
+}
 .controls{
     position: absolute;
     height: 15%;
